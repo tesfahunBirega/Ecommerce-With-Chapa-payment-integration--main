@@ -1,0 +1,15 @@
+export const USER_START ="USER_START"
+export const USER_SUCCESS="USER_SUCCESS"
+export const USER_FAIL="USER_FAIL"
+
+export const GET_USER_SUCCESS="GET_USERS_SUCCESS"
+export const GET_USER_START="GET_USER_START"
+export const GET_SINGLE_USER="GET_SINGLE_USER_SUCCESS"
+export const GET_USER_FAIL="GET_USER_FAIL"
+ 
+export const USER_LOGIN="USER_LOGIN"
+export const USER_CREATE="USER_CREATE"
+export const USER_UPDATE="USER_UPDATE"
+export const USER_DELETE='USER_DELETE'
+export const USER_LOGOUT="USER_LOGOUT"
+

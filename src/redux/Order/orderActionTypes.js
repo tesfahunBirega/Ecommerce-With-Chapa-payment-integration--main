@@ -1,0 +1,8 @@
+export const ORDER_START="ORDER_START"
+export const ORDER_FAIL="ORDER_FAIL"
+export const ORDER_GET="ORDER_GET"
+export const ORDERS_GET="ORDERS_GET"
+export const ORDERS_CREATE="ORDERS_CREATE"
+export const ORDER_CREATE="ORDER_CREATE"
+export const ORDER_UPDATE="ORDER_UPDATE"
+export const ORDER_DELETE="ORDER_DELETE"
